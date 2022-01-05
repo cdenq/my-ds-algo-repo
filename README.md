@@ -1,2 +1,10 @@
-# my-compsci-theory-solves
-Personal library detailing notes, implementation strategies, and coding exercises on a self-guided computer science theory learning.
+# my-ds-algo-repo
+
+## About Self-Guided Data Structures and Algorithms Learning
+
+`Self-Guided Data Structures and Algorithms Learning` is a collection of notes, implementation strategies, and coding exercises done along the way to learn data structures and algorithms:
+    - Sorting Algorithms
+    - Recursion and backtracking
+    - Trees and variants
+    - Graphs and variants
+    - Dynamic programming
